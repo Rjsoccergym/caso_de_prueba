@@ -1,0 +1,26 @@
+img {
+    border-radius: 20px;
+}
+
+p{
+    font-size: x-large;
+    text-align: justify;
+}
+
+span {
+    font-size: xx-large;
+    font-weight: 400;
+}
+
+.container-fluid{
+    padding: 2rem 10rem !important;
+}
+
+th {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+td {
+    font-size: x-large;
+}
